@@ -20,6 +20,7 @@ This project requires **Python 3** and the following Python libraries installed:
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [datetime](https://pypi.org/project/DateTime/)
+- [statsmodels](https://www.statsmodels.org/stable/index.html)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -27,7 +28,7 @@ This is Udacity's Data Scientist Nanodegree project. This project uses CRISP-DM 
 
 1. Where are the most expensive neighbourhoods in Seattle ?
 2. Where are the top listed neighbourhoods in Seattle ?
-3. What is the best way to predict price for a certain period ?
+3. Price prediction using machine learning algorithm.
 
 
 ## File Descriptions <a name="files"></a>
@@ -44,7 +45,7 @@ The following are the files used in the project.
 ## Results<a name="results"></a>
 
 
-Summary of findings can be found [here](https://medium.com/@gauravbhardwaj2020/rethink-before-placing-a-listing-for-housing-rental-service-aa011ea21c7a).
+Summary of findings can be found [here](https://medium.com/@ibrodex/an-insight-into-seattle-airbnb-open-data-using-crisp-dm-61434bd7e83d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
