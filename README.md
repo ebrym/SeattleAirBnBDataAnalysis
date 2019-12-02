@@ -27,7 +27,7 @@ This project requires **Python 3** and the following Python libraries installed:
 This is Udacity's Data Scientist Nanodegree project. This project uses CRISP-DM Process to analyze the data related to AirBnB data for housing in Seattle city. Using this data we will try to find answers to some of the interesting question that can give us some insight in a business point of view.
 
 1. Where are the most expensive neighbourhoods in Seattle ?
-2. Where are the top listed neighbourhoods in Seattle ?
+2. Where are the neighbourhoods with most listed properties in Seattle ?
 3. Price prediction using machine learning algorithm.
 
 
